@@ -50,7 +50,7 @@ async def op(bot, m :Message):
                 InlineKeyboardButton("─シ｡Aʙᴏᴜᴛ｡シ─", callback_data = "about")
                     ],[
                 InlineKeyboardButton("𖣘 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ", url="https://t.me/MoviGenX"),
-                InlineKeyboardButton("⚘ ᴀᴅᴜʟᴛ ʙᴏᴛ", url="https://t.me/BhaiLinksDeBot")
+                InlineKeyboardButton("⚘ Aᴅᴜʟᴛ ʙᴏᴛ", url="https://t.me/BhaiLinksDeBot")
                 ],[
                 InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀɴɴᴇʟ ࿇", url=f"https://t.me/{rkn1.BOT_USERNAME}?startchannel=Bots4Sale&admin=invite_users+manage_chat")],[
                 InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ࿇", url=f"https://t.me/{rkn1.BOT_USERNAME}?startgroup=Bots4Sale&admin=invite_users+manage_chat")
