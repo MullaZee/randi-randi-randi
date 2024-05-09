@@ -35,7 +35,7 @@ async def about(bot,update):
 	    #⚠️ don't change source code & source link ⚠️ #
 	    text = """<b>» Mʏ Nᴀᴍᴇ: <a href='https://t.me/Rkn_AutoRequestApprovebot'>Aᴜᴛᴏ Jᴏɪɴ Rᴇǫᴜᴇsᴛ Bᴏᴛ</a>
 ‣ Cʀᴇᴀᴛᴏʀ : <a href='tg://settings'>ᴛʜɪs Pᴇʀsᴏɴ</a>
-‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AnnihilusOp'>ʀᴋɴ Dᴇᴠᴇʟᴏᴘᴇʀ</a>
+‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AnnihilusOp'>Dᴇᴠᴇʟᴏᴘᴇʀ</a>
 ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org'>Pʏʀᴏɢʀᴀᴍ</a>
 ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ‣ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.8.3 [sᴛᴀʙʟᴇ]</b>""",
