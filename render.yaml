@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    repo: https://github.com/RknDeveloper/Rkn_Auto-Request-Approve-bot.git
+    repo: https://github.com/MullaZee/randi-randi-randi
     branch: main
     autoDeploy: false
     envVars:
