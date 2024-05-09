@@ -15,7 +15,7 @@ async def chk(bot, cb : CallbackQuery):
                 InlineKeyboardButton("─シ｡Aʙᴏᴜᴛ｡シ─", callback_data = "about")
                     ],[
                 InlineKeyboardButton("𖣘 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ", url="https://t.me/MoviGenX"),
-                InlineKeyboardButton("⚘ ᴀᴅᴜʟᴛ ʙᴏᴛ", url="https://t.me/BhaiLinksDeBot")
+                InlineKeyboardButton("⚘ Aᴅᴜʟᴛ ʙᴏᴛ", url="https://t.me/BhaiLinksDeBot")
                 ],[
                 InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀɴɴᴇʟ ࿇", url=f"https://t.me/{rkn1.BOT_USERNAME}?startchannel=Bots4Sale&admin=invite_users+manage_chat")],[
                 InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ࿇", url=f"https://t.me/{rkn1.BOT_USERNAME}?startgroup=Bots4Sale&admin=invite_users+manage_chat")
@@ -33,7 +33,7 @@ async def chk(bot, cb : CallbackQuery):
 async def about(bot,update):
 	await update.message.edit_text(
 	    #⚠️ don't change source code & source link ⚠️ #
-	    text = """<b>» Mʏ Nᴀᴍᴇ: <a href='https://t.me/Rkn_AutoRequestApprovebot'>Aᴜᴛᴏ Jᴏɪɴ Rᴇǫᴜᴇsᴛ Bᴏᴛ</a>
+	    text = """<b>» Mʏ Nᴀᴍᴇ: <a href='https://t.me/AcceptJoinRequestsBot'>Aᴜᴛᴏ Jᴏɪɴ Rᴇǫᴜᴇsᴛ Bᴏᴛ</a>
 ‣ Cʀᴇᴀᴛᴏʀ : <a href='tg://settings'>ᴛʜɪs Pᴇʀsᴏɴ</a>
 ‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AnnihilusOp'>Dᴇᴠᴇʟᴏᴘᴇʀ</a>
 ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org'>Pʏʀᴏɢʀᴀᴍ</a>
