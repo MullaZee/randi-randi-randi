@@ -15,10 +15,10 @@ async def chk(bot, cb : CallbackQuery):
                 InlineKeyboardButton("─シ｡Aʙᴏᴜᴛ｡シ─", callback_data = "about")
                     ],[
                 InlineKeyboardButton("𖣘 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ", url="https://t.me/MoviGenX"),
-                InlineKeyboardButton("⚘ Aᴅᴜʟᴛ ʙᴏᴛ", url="https://t.me/BhaiLinksDeBot")
+                InlineKeyboardButton("🛍️ 𝕯𝖊𝖆𝖑 𝕮𝖍𝖆𝖓𝖓𝖊𝖑", url="https://t.me/CheapieDeals")
                 ],[
-                InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀɴɴᴇʟ ࿇", url=f"https://t.me/{rkn1.BOT_USERNAME}?startchannel=Bots4Sale&admin=invite_users+manage_chat")],[
-                InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ࿇", url=f"https://t.me/{rkn1.BOT_USERNAME}?startgroup=Bots4Sale&admin=invite_users+manage_chat")
+                InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀɴɴᴇʟ ࿇", url=f"https://t.me/AcceptJoinRequestsBot?startchannel=Bots4Sale&admin=invite_users+manage_chat")],[
+                InlineKeyboardButton("✛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ࿇", url=f"https://t.me/AcceptJoinRequestsBot?startgroup=Bots4Sale&admin=invite_users+manage_chat")
                 
             ]])            
             add_user(cb.from_user.id)
@@ -41,7 +41,7 @@ async def about(bot,update):
 ‣ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.8.3 [sᴛᴀʙʟᴇ]</b>""",
 	    reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ ᴀᴅᴜʟᴛ ʙᴏᴛ ❣️", url="https://telegram.dog/BhaiLinksDeBot")],[
+               InlineKeyboardButton("🛍️ 𝕯𝖊𝖆𝖑 𝕮𝖍𝖆𝖓𝖓𝖊𝖑 🛍️", url="https://telegram.dog/CheapieDeals")],[
                InlineKeyboardButton("→ Bᴀᴄᴋ", callback_data = "rkn_developer")
                ]]
             )
